@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810837457678",
+    "project_id": "egitim2-7fd05",
+    "storage_bucket": "egitim2-7fd05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810837457678:android:3a9c758451d1594084355f",
+        "android_client_info": {
+          "package_name": "com.example.filmsappnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnVIbM0Xgqk6IuGOkMY1VCTcL4Blaon1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
